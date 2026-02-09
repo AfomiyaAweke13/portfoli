@@ -26,7 +26,7 @@ It highlights:
 
 ## 🖼 Preview
 
-![Portfolio Screenshot](./src/assets/images/screenshot.png)
+
 
 ---
 
@@ -49,10 +49,5 @@ It highlights:
 
 ---
 
-## ⚡ Getting Started (Local Setup)
 
-### 1️⃣ Prerequisites
-Make sure you have **Node.js** installed:
 
-```bash
-node -v
