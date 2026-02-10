@@ -20,7 +20,7 @@ It highlights:
 - Modern frontend practices
 
 🔗 **Live Demo:**  
-👉 https://afomiyaaweke13.github.io/portfolio
+👉 https://github.com/AfomiyaAweke13/portfoli
 
 ---
 
@@ -48,6 +48,7 @@ It highlights:
 - **Deployment:** GitHub Pages  
 
 ---
+
 
 
 
